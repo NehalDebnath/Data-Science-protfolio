@@ -1,1 +1,4 @@
-
+Problem statement :  This data set  is of  dubai airport  of the flights which are arrvig and departing from the Dubai airport 
+Build a classification model which predicts weather flight is late. Column M indicates that, "-" sign means it was before time
+If flight is more than 20 mins late marked it as delayed else not delayed.(create 0 and 1 class)
+then build the model which can predict the wether flight is delayed or not
